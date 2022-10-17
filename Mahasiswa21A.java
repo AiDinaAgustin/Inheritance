@@ -104,7 +104,7 @@ public class Mahasiswa21A extends Mahasiswa{
         }else{
             System.out.println("Nilai E :" + nil_e);
         }
-        System.out.println("Total Nilai mahasiswa adalah :" + tot_nilai + " / " + tot_data + " = " + rata_rata);
+        System.out.println("Rata-rata Nilai mahasiswa adalah :" + tot_nilai + " / " + tot_data + " = " + rata_rata);
     }
 
 }
